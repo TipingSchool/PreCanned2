@@ -1,1 +1,1 @@
-This is Project 1 to accomplish understanding of HTML/CSS/BOOTSTRAP
+This is Project to accomplish understanding of Responsive Website with HTML/CSS/BOOTSTRAP
